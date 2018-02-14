@@ -18,6 +18,9 @@ This email is valid (accepted)
 Enter an email address: a.b.ab
 This email is not valid (rejected)
 
+Enter an email address: ab@ab
+This email is not valid (rejected)
+
 Enter an email address: ab@ab.abcd
 This email is not valid (rejected)
 
